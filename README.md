@@ -3,7 +3,11 @@
 
 A real-time, auto-updating weather dashboard built with **Microsoft Power BI**, designed to display live and forecasted weather conditions, air quality levels, and more for selected cities in a beautiful and interactive format.
 
-![Dashboard Preview](./Screenshot%202025-08-08%20005426.png)
+![Dashboard Preview]
+
+
+<img width="1368" height="773" alt="Image" src="https://github.com/user-attachments/assets/85abccef-1120-4d1e-b127-ab8e8995502d" />
+
 
 ---
 
